@@ -49,3 +49,10 @@ Added functional JS to assignment to generate a random password based on accepta
 ![Error Prompt](./assets/ErrorPrompt.img.jpg)
 
 ![Additional Prompts](./assets/AdditionalPrompts.img.jpg)
+
+## Links
+
+WEBPAGE LINK - https://rinortega.github.io/Password-Generator/
+
+GITHUB LINK - https://github.com/RinOrtega/Password-Generator
+
